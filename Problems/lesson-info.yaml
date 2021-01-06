@@ -1,0 +1,228 @@
+content:
+- Does the array contain the element
+- The index of the last occurrence
+- The first occurrence in the subarray
+- The index of the K occurrence
+- Search indexes of values in another array
+- Count elements of an array in another one
+- The number of occurrences
+- Find integer values of Log levels
+- Sorting sequences
+- The first index of a sublist
+- Rotating table
+- Frequency of characters
+- Remove elements of a collection
+- Hip-Hop
+- No  J
+- Multiple swaps
+- Print comparisons
+- Finding the max number
+- Find a block that may contain the target value
+- Count comparisons
+- Reversed list
+- Iterable range
+- A fixed point
+- Finding a collection of elements in a sorted array
+- Searching in a descending sorted array
+- Max-min sorting
+- Partial sorting
+- The number of required shifts
+- Find the min in an array
+- Find index of the last max in an array
+- Find the second largest element in an array
+- Find the index of K min in an array
+- Not only non-negative numbers
+- Sorting characters
+- Count the number of merge operations
+- Merge all sequences
+- The number of inversions
+- The number of operations
+- Move the pivot
+- Complete a class
+- Complete the eager singleton
+- Print content
+- The first element
+- Invert an array
+- Area of parallelogram
+- The sign of a number
+- Division
+- Sum of numbers in the range
+- Writing a class
+- Pets and boxes
+- Packing backeries
+- List multiplicator
+- Violator
+- Pets in boxes
+- Raise to the power
+- Find the max in an array
+- Declared fields
+- Check for null
+- Field count
+- Quality control system
+- Getting the type of comparator
+- Calculating factorials
+- Find the index of the first min in an array
+- Photocopiers
+- Retrieve class name
+- Vowel or not
+- Getting Superclass
+- Find the Method
+- List public fields
+- List private fields
+- Field value
+- Annotated fields
+- Constructor Checker
+- Who is who
+- Sort out the classes
+- Sum of the areas
+- Find the max of three numbers
+- Serializable user
+- The Range class
+- Complex numbers
+- Ascending and descending sorting
+- Apply function to all elements
+- Accounts
+- An infinite numbers supplier
+- Number holder
+- The chain of responsibility
+- String concatenation
+- Curried function
+- The address book
+- Multifunctional mapper
+- Find a list parameter type
+- What is an upper bound
+- Reducer operator
+- Sum of divisors
+- Range quadratic sum
+- Calculating factorials (1)
+- Disjunct all
+- Count passwords
+- A sorted stream
+- Finding max and min elements
+- Check if a number is prime
+- Numbers filtering
+- Maximum of the absolute values
+- Sorting the absolute values
+- Count words without repetitions
+- ASCII Art
+- The product of squares
+- The average salary
+- The total number of employees
+- Using streams many times
+- Secret codes
+- The total sum of canceled transactions
+- Prime numbers
+- Inverting streams
+- Powers of two
+- Counting clicks
+- Palindrome or not
+- Omitting long strings
+- Print elements of a stream
+- Ternary operator
+- The sum of odd numbers
+- Initialize an object of a generic class
+- Correct the usage of non-generic class
+- Messaging
+- Check whether a number is prime
+- How many tasks are finished
+- Execute Callable objects
+- How many Callable objects are there
+- How many type variables defined
+- Remote Controller
+- Undo command
+- The ten most frequent words
+- The total sum of transaction by each account
+- Add new default method
+- Impement a default method
+- Builder
+- Builder (1)
+- Robot Builder
+- Pizza Decorator
+- Breakfast Decorator
+- Coffee Decorator
+- Forex Broker
+- Rockstar games
+- A new rockstar game
+- Fix me
+- Cinema Facade
+- Computer Facade
+- Smart house
+- Laptop factory
+- Burgers
+- Correct the program
+- Slightly mocking
+- Resolve a diamond problem
+- Phone factory
+- Phone Book
+- Rehashing
+- Removing
+- Square of a circle
+- Counting 2D shapes
+- The height of a tree (v1)
+- The height of a tree (v2)
+- Finding the leaves of a tree
+- Geek Builder
+- calculator
+- The height of the tree
+- The in-order traversal
+- Testing the factorial
+- Count a window active time
+- The depth of the nodes
+- Stock Broker
+- Days of week
+- Hidden enumeration
+- Danger levels
+- System of units
+- Pumpkin and candle
+- New Inner class
+- Christmas tree
+- Robot control
+- Simple heap
+- Swaps
+- Subway Sandwich
+- Sort with States
+- Variables and constraints
+- Bad words detecting
+- DAG checker
+- Alphabet
+- Simple list
+- Advanced list
+- Allocated memory
+- Double addition
+- Simple doubly linked list
+- Sorted list
+- Cycled list
+- A full binary tree
+- Your vehicle
+- The pre-order traversal
+- Implementing the EntrySet method
+- Set average
+- Edit distance with a scoring matrix
+- Edit distance with insertions and deletions
+- Implement a listener
+- Efficient memory consumption
+- Multiple sequence alignment
+- Improve your vehicle
+- Rope
+- An approximate matching
+- Finding an alignment using a scoring function
+- Finding a representative of strings
+- Balance management
+- Finding a substring minimizing distance
+- Finding the most similar reverse substring
+- The first occurrence
+- All occurrences
+- Non-overlapping occurrences
+- Find min and max
+- Make slices
+- Alice plays letter cubes (v1)
+- Alice plays letter cubes (v2)
+- Get the game mode
+- Finding a string in a matrix (v2)
+- Non-overlapping occurrences (1)
+- Create instance
+- Finding a string in a matrix (v1)
+- Calculating a substring hash
+- The number of distinct substrings
+- Repetitive Substring
+- The number of equal substring pairs

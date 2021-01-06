@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "import java.util.Arrays;\nimport java.util.Scanner;\n\npublic class Main\
+    \ {\n\n    public static int findIndexOfMin(int[] numbers) {\n        // write\
+    \ your code here\n    }\n\n    /* Do not change code below */\n    public static\
+    \ void main(String[] args) {\n        final Scanner scanner = new Scanner(System.in);\n\
+    \        final int[] numbers;\n        if (scanner.hasNextInt()) {\n         \
+    \   numbers = Arrays.stream(scanner.nextLine().split(\"\\\\s+\"))\n          \
+    \                  .mapToInt(Integer::parseInt)\n                            .toArray();\n\
+    \        } else {\n            numbers = new int[0];    \n        }\n        System.out.println(findIndexOfMin(numbers));\n\
+    \    }\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3089
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3089">JetBrains
+    Academy</a></html>
+  time: Fri, 16 Oct 2020 07:10:38 UTC
+record: -1

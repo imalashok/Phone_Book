@@ -1,0 +1,168 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Problems/A fixed point/out/
+/Problems/A fixed point/out/production/classes/
+/Problems/A full binary tree/out/
+/Problems/A full binary tree/out/production/classes/
+/Problems/A new rockstar game/out/
+/Problems/A new rockstar game/out/production/classes/
+/Problems/Advanced list/out/
+/Problems/Advanced list/out/production/classes/
+/Problems/Alice plays letter cubes (v1)/out/
+/Problems/Alice plays letter cubes (v1)/out/production/classes/
+/Problems/Alice plays letter cubes (v2)/out/
+/Problems/Alice plays letter cubes (v2)/out/production/classes/
+/Problems/All occurrences/out/
+/Problems/All occurrences/out/production/classes/
+/Problems/Allocated memory/out/
+/Problems/Allocated memory/out/production/classes/
+/Problems/Alphabet/out/
+/Problems/Alphabet/out/production/classes/
+/Problems/An approximate matching/out/
+/Problems/An approximate matching/out/production/classes/
+/Problems/Ascending and descending sorting/out/
+/Problems/Ascending and descending sorting/out/production/classes/
+/Problems/Burgers/out/
+/Problems/Burgers/out/production/classes/
+/Problems/Calculating a substring hash/out/
+/Problems/Calculating a substring hash/out/production/classes/
+/Problems/calculator/build/
+/Problems/Cinema Facade/out/
+/Problems/Cinema Facade/out/production/classes/
+/Problems/Coffee Decorator/out/
+/Problems/Coffee Decorator/out/production/classes/
+/Problems/Computer Facade/out/
+/Problems/Computer Facade/out/production/classes/
+/Problems/Count comparisons/out/
+/Problems/Count comparisons/out/production/classes/
+/Problems/Count the number of merge operations/out/
+/Problems/Count the number of merge operations/out/production/classes/
+/Problems/Cycled list/out/
+/Problems/Cycled list/out/production/classes/
+/Problems/DAG checker/out/
+/Problems/DAG checker/out/production/classes/
+/Problems/Double addition/out/
+/Problems/Double addition/out/production/classes/
+/Problems/Edit distance with a scoring matrix/out/
+/Problems/Edit distance with a scoring matrix/out/production/classes/
+/Problems/Edit distance with insertions and deletions/out/
+/Problems/Edit distance with insertions and deletions/out/production/classes/
+/Problems/Efficient memory consumption/out/
+/Problems/Efficient memory consumption/out/production/classes/
+/Problems/Find a block that may contain the target value/out/
+/Problems/Find a block that may contain the target value/out/production/classes/
+/Problems/Find the index of K min in an array/out/
+/Problems/Find the index of K min in an array/out/production/classes/
+/Problems/Find the second largest element in an array/out/
+/Problems/Find the second largest element in an array/out/production/classes/
+/Problems/Finding a collection of elements in a sorted array/out/
+/Problems/Finding a collection of elements in a sorted array/out/production/classes/
+/Problems/Finding a representative of strings/out/
+/Problems/Finding a representative of strings/out/production/classes/
+/Problems/Finding a string in a matrix (v1)/out/
+/Problems/Finding a string in a matrix (v1)/out/production/classes/
+/Problems/Finding a string in a matrix (v2)/out/
+/Problems/Finding a string in a matrix (v2)/out/production/classes/
+/Problems/Finding a substring minimizing distance/out/
+/Problems/Finding a substring minimizing distance/out/production/classes/
+/Problems/Finding an alignment using a scoring function/out/
+/Problems/Finding an alignment using a scoring function/out/production/classes/
+/Problems/Finding the leaves of a tree/out/
+/Problems/Finding the leaves of a tree/out/production/classes/
+/Problems/Finding the most similar reverse substring/out/
+/Problems/Finding the most similar reverse substring/out/production/classes/
+/Problems/Fix me/out/
+/Problems/Fix me/out/production/classes/
+/Problems/Implementing the EntrySet method/out/
+/Problems/Implementing the EntrySet method/out/production/classes/
+/Problems/Max-min sorting/out/
+/Problems/Max-min sorting/out/production/classes/
+/Problems/Merge all sequences/out/
+/Problems/Merge all sequences/out/production/classes/
+/Problems/Move the pivot/out/
+/Problems/Move the pivot/out/production/classes/
+/Problems/Multiple sequence alignment/out/
+/Problems/Multiple sequence alignment/out/production/classes/
+/Problems/No  J/out/
+/Problems/No  J/out/production/classes/
+/Problems/Non-overlapping occurrences/out/
+/Problems/Non-overlapping occurrences/out/production/classes/
+/Problems/Non-overlapping occurrences (1)/out/
+/Problems/Non-overlapping occurrences (1)/out/production/classes/
+/Problems/Not only non-negative numbers/out/
+/Problems/Not only non-negative numbers/out/production/classes/
+/Problems/Partial sorting/out/
+/Problems/Partial sorting/out/production/classes/
+/Problems/Phone Book/out/
+/Problems/Phone Book/out/production/classes/
+/Problems/Phone factory/out/
+/Problems/Phone factory/out/production/classes/
+/Problems/Print comparisons/out/
+/Problems/Print comparisons/out/production/classes/
+/Problems/Rehashing/out/
+/Problems/Rehashing/out/production/classes/
+/Problems/Remote Controller/out/
+/Problems/Remote Controller/out/production/classes/
+/Problems/Removing/out/
+/Problems/Removing/out/production/classes/
+/Problems/Repetitive Substring/out/
+/Problems/Repetitive Substring/out/production/classes/
+/Problems/Rockstar games/out/
+/Problems/Rockstar games/out/production/classes/
+/Problems/Rope/out/
+/Problems/Rope/out/production/classes/
+/Problems/Rotating table/out/
+/Problems/Rotating table/out/production/classes/
+/Problems/Searching in a descending sorted array/out/
+/Problems/Searching in a descending sorted array/out/production/classes/
+/Problems/Simple doubly linked list/out/
+/Problems/Simple doubly linked list/out/production/classes/
+/Problems/Simple heap/out/
+/Problems/Simple heap/out/production/classes/
+/Problems/Simple list/out/
+/Problems/Simple list/out/production/classes/
+/Problems/Smart house/out/
+/Problems/Smart house/out/production/classes/
+/Problems/Sort with States/out/
+/Problems/Sort with States/out/production/classes/
+/Problems/Sorted list/out/
+/Problems/Sorted list/out/production/classes/
+/Problems/Sorting characters/out/
+/Problems/Sorting characters/out/production/classes/
+/Problems/Sorting sequences/out/
+/Problems/Sorting sequences/out/production/classes/
+/Problems/Swaps/out/
+/Problems/Swaps/out/production/classes/
+/Problems/The depth of the nodes/out/
+/Problems/The depth of the nodes/out/production/classes/
+/Problems/The first index of a sublist/out/
+/Problems/The first index of a sublist/out/production/classes/
+/Problems/The first occurrence/out/
+/Problems/The first occurrence/out/production/classes/
+/Problems/The height of a tree (v1)/out/
+/Problems/The height of a tree (v1)/out/production/classes/
+/Problems/The height of a tree (v2)/out/
+/Problems/The height of a tree (v2)/out/production/classes/
+/Problems/The height of the tree/out/
+/Problems/The height of the tree/out/production/classes/
+/Problems/The in-order traversal/out/
+/Problems/The in-order traversal/out/production/classes/
+/Problems/The number of distinct substrings/out/
+/Problems/The number of distinct substrings/out/production/classes/
+/Problems/The number of equal substring pairs/out/
+/Problems/The number of equal substring pairs/out/production/classes/
+/Problems/The number of inversions/out/
+/Problems/The number of inversions/out/production/classes/
+/Problems/The number of operations/out/
+/Problems/The number of operations/out/production/classes/
+/Problems/The number of required shifts/out/
+/Problems/The number of required shifts/out/production/classes/
+/Problems/The pre-order traversal/out/
+/Problems/The pre-order traversal/out/production/classes/
+/Problems/The ten most frequent words/out/
+/Problems/The ten most frequent words/out/production/classes/
+/Problems/Variables and constraints/out/
+/Problems/Variables and constraints/out/production/classes/
